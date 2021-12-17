@@ -24,7 +24,7 @@ npm run start
     http://localhost:8000/news/{id}
     
     
-    Open http://localhost:8000/ with your browser to see the results of the scrape in your terminal. 
-    
-    
-    Enjoy Coding!
+Open http://localhost:8000/ with your browser to see the results of the scrape in your terminal. 
+
+
+Enjoy Coding!
