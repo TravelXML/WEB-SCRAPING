@@ -1,12 +1,16 @@
 # Web Scraping Using Node
+
 ## Web Scraping using nodejs, axios, cheerio
-# A Demo to show how to build your own API
+
+#### A Demo to show how to build your own API
+
 To run this project
 
 You can run this project on your local machine. Just pull it down and do the following:
-npm i
 
-    Run the command above to install all the packages
+    npm i
+
+Run the command above to install all the packages
 
 Start the Project
 
