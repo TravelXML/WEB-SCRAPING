@@ -1,6 +1,4 @@
-# Web Scraping Using Node
-
-## Web Scraping using nodejs, axios, cheerio
+# Web Scraping using nodejs, axios, cheerio
 
 #### A Demo to show how to build your own API
 
