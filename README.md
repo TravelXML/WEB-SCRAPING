@@ -14,9 +14,9 @@ Run the command above to install all the packages
 
 Start the Project
 
-    Now run the server:
+Now run the server:
 
-npm run start
+    npm run start
 
     
     API Enpoint: 
